@@ -7,7 +7,10 @@ p, p1 {
     font-family: Monospace, sans-serif;
 }
 
-h1 {
+h1, h2 {
     font-family: Monospace, sans-serif;
 }
 
+title {
+    font-family: Monospace, sans-serif;
+}
