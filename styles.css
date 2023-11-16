@@ -4,7 +4,7 @@ body {
 }
 
 p, p1 {
-    font-family: Monospace, sans-serif;
+    font-family: Monospace, sans-serif; color:red
 }
 
 h1, h2 {
